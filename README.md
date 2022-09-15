@@ -1,6 +1,5 @@
 # react-webpack-MF
 
-[中文](./README_zh-cn.md)
 
 A complete Webpack Module Federation Case with React.
 
